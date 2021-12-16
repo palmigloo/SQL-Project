@@ -1,4 +1,4 @@
-use mavenfuzzyfactory;
+use e-com-analysis;
 
 # Analyzing business patterns and seasonality 
 # Question 1: Analyzing monthly/yearly trend 
